@@ -86,7 +86,7 @@ TTT2 also provides its usual role controls for enabling the role and tuning how 
 
 - [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/)
 - A server running [TTT2](https://github.com/TTT-2/TTT2)
-- [GTA V] Bigfoot Playermodel & NPC (https://steamcommunity.com/sharedfiles/filedetails/?id=960722145)
+- [GTA V Bigfoot Playermodel & NPC](https://steamcommunity.com/sharedfiles/filedetails/?id=960722145)
 
 ### Local Installation
 
