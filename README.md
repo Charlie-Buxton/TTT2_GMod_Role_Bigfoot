@@ -34,9 +34,9 @@ The transformed Bigfoot is intentionally excluded from victory calculations. Thi
 
 ## Example Round
 
-Alice is secretly assigned Bigfoot but sees the normal Innocent role at the start of the round. Nobody else is told that Bigfoot exists.
+Player 1 is secretly assigned Bigfoot but sees the normal Innocent role at the start of the round. Nobody else is told that Bigfoot exists.
 
-When Alice is killed, her screen goes black for two seconds and tells her that she can no longer speak. She then revives as Bigfoot with extra health. Her inventory has been replaced by a single Help me action, so the only way she can communicate with nearby players is through the sound's location and timing.
+When Player 1 is killed, her screen goes black for two seconds and tells her that they can no longer speak. They then revives as Bigfoot with extra health. Her inventory has been replaced by a single Help me action, so the only way she can communicate with nearby players is through the sound's location and timing.
 
 The result is a small mechanical twist with a social consequence: other players have to decide whether the creature they can hear is useful, dangerous, or a distraction.
 
