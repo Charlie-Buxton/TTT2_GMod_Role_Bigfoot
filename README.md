@@ -4,14 +4,6 @@ A custom social-deduction game role for **Trouble in Terrorist Town 2 (TTT2)**, 
 
 Bigfoot begins the round disguised as an ordinary Innocent. The first time they are killed, they return as a stronger but feral version of themselves: unable to speak, unable to use normal weapons, and only able to call out for help with a positional sound.
 
-## The Game in Plain English
-
-[Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/) is a sandbox game that supports community-made game modes and addons. One of those game modes is **Trouble in Terrorist Town (TTT)**, a multiplayer social-deduction game:
-
-- Most players are **Innocents** trying to survive.
-- A smaller hidden group are **Traitors** trying to eliminate everyone else.
-- Players must work out who they can trust before the Traitors win.
-
 [TTT2](https://github.com/TTT-2/TTT2) expands TTT with a framework for custom roles, equipment, settings, and win conditions. This repository adds one of those roles.
 
 ## What Bigfoot Does
@@ -110,7 +102,3 @@ garrysmod/addons/ttt2-role_bigfoot/
 ```
 
 Start a TTT2 server and enable the Bigfoot role through the standard TTT2 role settings.
-
-## Why This Exists
-
-The goal is to add a role that is easy to understand during play but changes how players communicate and reason about the round. Bigfoot is still an Innocent, yet its transformation turns a familiar team member into an information-limited character whose behavior has to speak for itself.
