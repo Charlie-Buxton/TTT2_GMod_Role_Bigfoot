@@ -1,6 +1,6 @@
 # Bigfoot Role for TTT2
 
-A custom social-deduction game role for **TTT2**, built in Lua for **Garry's Mod**.
+A custom social-deduction game role for **TTT2**, built in Lua for [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/).
 
 Bigfoot begins the round disguised as an ordinary Innocent. The first time they are killed, they return as a stronger but feral version of themselves: unable to speak, unable to use normal weapons, and only able to call out for help with a positional sound.
 
