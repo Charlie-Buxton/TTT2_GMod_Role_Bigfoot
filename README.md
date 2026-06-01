@@ -1,6 +1,6 @@
 # Bigfoot Role for Trouble in Terrorist Town 2
 
-A custom social-deduction game role for **Trouble in Terrorist Town 2 (TTT2)**, built in Lua for **Garry's Mod**.
+A custom social-deduction game role for **TTT2**, built in Lua for **Garry's Mod**.
 
 Bigfoot begins the round disguised as an ordinary Innocent. The first time they are killed, they return as a stronger but feral version of themselves: unable to speak, unable to use normal weapons, and only able to call out for help with a positional sound.
 
@@ -86,6 +86,7 @@ TTT2 also provides its usual role controls for enabling the role and tuning how 
 
 - [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/)
 - A server running [TTT2](https://github.com/TTT-2/TTT2)
+- [GTA V] Bigfoot Playermodel & NPC (https://steamcommunity.com/sharedfiles/filedetails/?id=960722145)
 
 ### Local Installation
 
