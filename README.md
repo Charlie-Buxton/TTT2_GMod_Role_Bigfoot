@@ -1,4 +1,4 @@
-# Bigfoot Role for Trouble in Terrorist Town 2
+# Bigfoot Role for TTT2
 
 A custom social-deduction game role for **TTT2**, built in Lua for **Garry's Mod**.
 
