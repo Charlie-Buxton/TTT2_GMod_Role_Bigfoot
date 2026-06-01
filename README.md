@@ -40,19 +40,6 @@ When Player 1 is killed, their screen goes black for two seconds and tells her t
 
 The result is a small mechanical twist with a social consequence: other players have to decide whether the creature they can hear is useful, dangerous, or a distraction.
 
-## Engineering Highlights
-
-This addon is deliberately small, but it touches several parts of the TTT2 and Garry's Mod addon APIs:
-
-- **Role lifecycle management:** resets per-player state between rounds and transforms Bigfoot only after their first death.
-- **Client/server networking:** sends a timed blackout overlay and optional post-revival reminder from the server to the affected client.
-- **Selective role synchronization:** presents different role information to Bigfoot and to other players to preserve the disguise.
-- **Game-rule integration:** adjusts round-end checks so the transformed role does not block the normal victory flow.
-- **Inventory restrictions:** strips the standard loadout, prevents normal weapon pickups, disables shop orders, and restores the custom ability after spawn timing events.
-- **Communication restrictions:** blocks both voice and text chat after transformation.
-- **Bundled assets:** includes a player model, materials, role icon, and positional sound effect.
-- **Server configuration:** exposes health and reminder-popup options as console variables and in the TTT2 settings menu.
-
 ## Project Structure
 
 ```text
